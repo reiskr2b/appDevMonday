@@ -39,6 +39,7 @@ public class Activity1 {
 
 
 	   System.out.println("Joshua Mirandilla H. - BSIT-2B");
+           System.out.println("Maxene Khyle S. Velayo - BSIT-2B");
 
 
     }
