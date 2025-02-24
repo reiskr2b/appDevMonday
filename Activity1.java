@@ -32,9 +32,16 @@ public class Activity1 {
 
 
 
+           System.out.println("Reign Myer F. Mendoza - BSIT 2A");
+           System.out.println("Jerome F. Magno - BSIT 2B");
+	   System.out.println("Marco Kim Sean C. Mendiola - BSIT 2A");
+           System.out.println("Bryle O. Lacandula - BSIT 2A");
+
+
 	   System.out.println("Marco Kim Sean C. Mendiola - BSIT 2A");
 	   System.out.println("Joshua Mirandilla H. - BSIT-2B");
 	System.out.println("Maria Theresa F. Alim - BSIT-2A");
+
 
 
 
