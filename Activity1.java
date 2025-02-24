@@ -14,6 +14,9 @@ public class Activity1 {
            System.out.println("Nate Christian I. Walo - BSIT-2A");
            System.out.println("Stephen Louise C. Lanzar - BSIT-2B");
 
+           System.out.println("Louie Justine V. Luceor - BSIT-2A");
+
+
            System.out.println("Joel P. Lluz Jr. - BSIT-2A");
 
 
@@ -21,6 +24,7 @@ public class Activity1 {
 
            System.out.println("Reign Myer F. Mendoza - BSIT 2A");
            System.out.println("Jerome F. Magno - BSIT 2B");
+
 
 
 
