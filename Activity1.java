@@ -4,6 +4,9 @@ public class Activity1 {
    
         // Collaborators: Add your names below using the format:
         // System.out.println("Your Full Name - SECTION");
+
+           System.out.println("CJ R. Andrada - BSIT - 2B");
+
            System.out.println("Aliyah Gayle Jalique - BSIT 2A");
            System.out.println("Lance Whynzel U. David - BSIT-2A")
            System.out.println("Jener N. Demetrial - BSIT-2A");
@@ -29,6 +32,7 @@ public class Activity1 {
 	   System.out.println("Marco Kim Sean C. Mendiola - BSIT 2A");
 	   System.out.println("Joshua Mirandilla H. - BSIT-2B");
 	System.out.println("Maria Theresa F. Alim - BSIT-2A");
+
 
     }
 }
