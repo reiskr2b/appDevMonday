@@ -32,7 +32,7 @@ public class Activity1 {
 
 	   System.out.println("Marco Kim Sean C. Mendiola - BSIT 2A");
 
-
+	System.out.println("Emmanuel Jalosjos - BSIT 2A");
 
 
 
