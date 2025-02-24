@@ -31,7 +31,7 @@ public class Activity1 {
 	   System.out.println("Joshua Mirandilla H. - BSIT-2B");
 	   System.out.println("Maria Theresa F. Alim - BSIT-2A");
 	   System.out.println("Jade Evans E. Francisco - BSIT 2A");
-
+	   System.out.println("Adrian Jay L. Gutierrez - BSIT 2A");
 
     }
 }
