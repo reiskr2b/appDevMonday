@@ -49,6 +49,6 @@ public class Activity1 {
 
             System.out.println("Hazel joy Babon - BSIT-2B");
 
-
+            System.out.println("David Kyle Velasco - BSIT-2B");
     }
 }
