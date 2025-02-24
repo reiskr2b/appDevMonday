@@ -6,10 +6,8 @@ public class Activity1 {
         // System.out.println("Your Full Name - SECTION");
 
            System.out.println("Lance Whynzel U. David - BSIT-2A")
-
            System.out.println("Jener N. Demetrial - BSIT-2A");
-       
-
+           System.out.println("Nate Christian I. Walo - BSIT-2A");
     }
 }
 
