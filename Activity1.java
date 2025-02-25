@@ -3,7 +3,7 @@ public class Activity1 {
         System.out.println("List of Students:");
    
         // Collaborators: Add your names below using the format:
-        // System.out.println("Your Full Name - SECTION");
+        // System.out.println("Kathlyn Joy P. Luces - BSIT 2A");
            System.out.println("CJ R. Andrada - BSIT - 2B");
            System.out.println("Aliyah Gayle Jalique - BSIT 2A");
            System.out.println("Lance Whynzel U. David - BSIT-2A")
@@ -51,7 +51,17 @@ public class Activity1 {
 
             System.out.println("Hazel joy Babon - BSIT-2B");
 
+
            System.out.println("Nikka Cyra S.  Catalan - BSIT-2B");
+
+            System.out.println("Hannah Mae A. Sabangan - BSIT-2B");
+
+
+
+            System.out.println("David Kyle Velasco - BSIT-2B");
+
+	   System.out.println("Stephen Kyle B. Esponga - BSIT-2B");
+
 
            System.out.println("Rosemarie Bantilo - BSIT-2A");
 
@@ -62,6 +72,12 @@ public class Activity1 {
 
 
 
+
+
+
+
+	   System.out.println("Joshua Mirandilla H. - BSIT-2B");
+           System.out.println("Carlito A. Sese Jr. - BSIT-2A");
 
 
 
