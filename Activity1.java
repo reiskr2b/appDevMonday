@@ -32,6 +32,8 @@ public class Activity1 {
            System.out.println("Bryle O. Lacandula - BSIT 2A");
 	   System.out.println("Marco Kim Sean C. Mendiola - BSIT 2A");
 	   System.out.println("Joshua Mirandilla H. - BSIT-2B");
+	  System.out.println("Ian Jorito Larong - BSIT-2B");
+
 
 
            System.out.println("Maxene Khyle S. Velayo - BSIT-2B");
@@ -48,6 +50,15 @@ public class Activity1 {
 		
 
             System.out.println("Hazel joy Babon - BSIT-2B");
+
             System.out.println("Ma. Eloisa Louisse B. Corporal - BSIT 2A");
+
+
+    System.out.println("Monica O. Santos - BSIT-2B");
+
+
+
+
+
     }
 }
