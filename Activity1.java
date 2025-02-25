@@ -50,6 +50,8 @@ public class Activity1 {
 		
 
             System.out.println("Hazel joy Babon - BSIT-2B");
+	    System.out.println("Angelica Marie L. Cafugauan - BSIT-2B");
+	
 
 	    System.out.println("Maria Luisa G Abastilla - BSIT-2B");
 
