@@ -48,6 +48,7 @@ public class Activity1 {
 		
 
             System.out.println("Hazel joy Babon - BSIT-2B");
+	   System.out.println("Stephen Kyle B. Esponga - BSIT-2B");
 
 
     }
