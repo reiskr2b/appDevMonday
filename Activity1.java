@@ -50,6 +50,9 @@ public class Activity1 {
 		
 
             System.out.println("Hazel joy Babon - BSIT-2B");
+
+	    System.out.println("Maria Luisa G Abastilla - BSIT-2B");
+
             System.out.println("Bench Asher Villanueva - BSIT-2B");
 
 
@@ -79,6 +82,7 @@ public class Activity1 {
 
 	   System.out.println("Joshua Mirandilla H. - BSIT-2B");
            System.out.println("Carlito A. Sese Jr. - BSIT-2A");
+
 
 
            System.out.println("Yohj Railey S. Mendones - BSIT-2B");
