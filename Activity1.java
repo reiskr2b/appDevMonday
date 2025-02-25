@@ -81,6 +81,6 @@ public class Activity1 {
            System.out.println("Carlito A. Sese Jr. - BSIT-2A");
 
 
-
+           System.out.println("Yohj Railey S. Mendones - BSIT-2B");
     }
 }
