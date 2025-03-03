@@ -22,6 +22,9 @@ public class week5 {
         Pergis.display();
 
 
+	Lim.Display();
+
+
 
 
 
