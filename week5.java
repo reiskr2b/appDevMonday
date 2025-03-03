@@ -34,6 +34,7 @@ public class week5 {
 
 
 	Lim.Display();
+	Aldama.Display();
 
 
 
