@@ -8,15 +8,19 @@ public class week5 {
 
         Lanzar.display();
 
-
         Lluz.display();
-
 
         Walo.display();
 
         Francisco.display();
 
+
         AlimMaria.display();
+
+        Pergis.display();
+
+
+
 
 
     }
