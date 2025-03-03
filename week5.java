@@ -35,7 +35,17 @@ public class week5 {
 
 	Lim.Display();
 
+
 	Jalosjos.Display();
+
+	Babon.Display();
+	    
+
+	Aldama.Display();
+
+
+
+
 
 
 
