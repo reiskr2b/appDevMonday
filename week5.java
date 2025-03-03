@@ -35,7 +35,7 @@ public class week5 {
 
 	Lim.Display();
 
-
+	Jalosjos.Display();
 
 
 
