@@ -31,7 +31,7 @@ public class week5 {
         Esponga.display();
 
 
-
+       Corporal.display();
 
 	Lim.Display();
 
