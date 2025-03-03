@@ -5,6 +5,15 @@ public class week5 {
         // Call each student's method
         // More students will add their method calls here...
         //lastname.display();
+
         Lluz.display();
+
+
+        Walo.display();
+
+        Francisco.display();
+
+
+
     }
 }
