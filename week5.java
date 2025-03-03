@@ -4,10 +4,13 @@ public class week5 {
        
         // Call each student's method
         // More students will add their method calls here...
+
         //lastname.display();
-<<<<<<< HEAD
+
         Lucero.display();
-=======
+
+        Jalique.display();
+
 
         Lanzar.display();
 
@@ -28,6 +31,6 @@ public class week5 {
 
 
 
->>>>>>> upstream/main
+
     }
 }
