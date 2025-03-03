@@ -5,11 +5,17 @@ public class week5 {
         // Call each student's method
         // More students will add their method calls here...
 
-        //lastname.display();
-<<<<<<< HEAD
-        //Velayo.display();
-=======
 
+        //lastname.display();
+
+        Velayo.display();
+
+
+        Lluz.display();
+
+
+
+      
         Lucero.display();
 
         Jalique.display();
@@ -31,12 +37,32 @@ public class week5 {
 
         Pergis.display();
 
+
         Velayo.display();
 
+        Esponga.display();
+
+
+       Corporal.display();
+
+	Lim.Display();
+
+
+	Jalosjos.Display();
+
+	Babon.Display();
+	    
+
+	Aldama.Display();
 
 
 
 
->>>>>>> b63dc41c1fc49633bfca94f195373fd45000a4ce
+
+
+
+
+
     }
 }
+
