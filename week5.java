@@ -48,12 +48,16 @@ public class week5 {
 	Lim.Display();
 
 
+
+      Santos.display();
+
 	Jalosjos.Display();
 
 	Babon.Display();
 	    
 
 	Aldama.Display();
+
 
 
 
