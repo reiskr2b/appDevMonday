@@ -16,6 +16,8 @@ public class week5 {
 
         Francisco.display();
 
+        Plena.display();
+
 
 
 
