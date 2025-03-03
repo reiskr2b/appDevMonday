@@ -21,6 +21,7 @@ public class week5 {
         Francisco.display();
 
         Plena.display();
+        Palomas.display();
 
 
         AlimMaria.display();
